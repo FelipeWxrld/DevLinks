@@ -1,6 +1,6 @@
 # DevLinks
 
-Página de links pessoais de Fernando Souza Siqueira ([@Fesiqqq](https://github.com/Fesiqqq)), feita em **React + Vite**, baseada no layout "DevLinks • OpenCode MiniProject" do Figma. Tem modo claro e escuro, e a escolha fica salva no navegador.
+Página de links pessoais de Luiz Felipe Rodrigues Silva ([@FelipeWxrld](https://github.com/FelipeWxrld)), feita em **React + Vite**, baseada no layout "DevLinks • OpenCode MiniProject" do Figma. Tem modo claro e escuro, e a escolha fica salva no navegador.
 
 ![Desktop escuro](docs/screenshots/desktop-dark.png)
 ![Mobile claro](docs/screenshots/mobile-light.png)
